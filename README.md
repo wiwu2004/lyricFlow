@@ -48,7 +48,7 @@ A API de playback do Spotify só funciona com conta **Premium**.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/lyricflow.git
+git clone https://github.com/wiwu2004/lyricFlow.git
 cd lyricflow
 ```
 
