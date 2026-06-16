@@ -1,0 +1,8 @@
+# Dependências do LyricFlow
+# Para instalar, rode:
+#   pip install -r requirements.txt
+
+PyQt6
+spotipy
+requests
+python-dotenv
